@@ -1,5 +1,5 @@
 {
-       user : {
+       "user" : {
             "email": "michael.lawson@reqres.in",
             "first_name": "Michael",
             "last_name": "Lawson",
